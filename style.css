@@ -14,7 +14,7 @@ header {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 29px 0;
+    padding: 24px 0;
 }
 
 .cabecalho-imagem {
@@ -40,14 +40,10 @@ width: 25%
     padding: 24px 0;
 }
 
-.escola-div-conteudo {
+.calvície-div-conteudo {
     width: 35%;
 }
 
 .calvície {
     padding: 24px 0;
-}
-
-body {
-    font-family:'Dancing Script', sans-serif;
 }
