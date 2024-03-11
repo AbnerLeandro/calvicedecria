@@ -1,16 +1,11 @@
-header {
-    background-color: #0062ff;
-    color: white;
-}
-
 *{
     margin: 0;
     padding: 0;
 }
 
 .cabecalho{
-    background-color: #0062ff;
-    color: aliceblue ;
+    background-image: linear-gradient(#424242, #ff0000);
+    color: rgb(255, 255, 255) ;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -27,12 +22,12 @@ header {
     font-size: 25px;
 }
 
-.calvície-título {
+.esporte-título {
 width: 25%
 }
 
-.calvície {
-    background-image: linear-gradient(#0062ff, #424242);
+.esporte {
+    background-image: linear-gradient(#ff0000, #424242);
     color:aliceblue;
     display: flex;
     justify-content: center;
@@ -40,10 +35,10 @@ width: 25%
     padding: 24px 0;
 }
 
-.calvície-div-conteudo {
+.esporte-div-conteudo {
     width: 35%;
 }
 
-.calvície {
+.esporte {
     padding: 24px 0;
 }
