@@ -13,7 +13,7 @@
 }
 
 .cabecalho-imagem {
-    width: 10%;
+    width: 30%;
 }
 
 .cabecalho-lista-item {
@@ -23,11 +23,11 @@
 }
 
 .esporte-título {
-width: 25%
+width: 40%
 }
 
 .esporte {
-    background-image: linear-gradient(#ff0000, #424242);
+    background-image: linear-gradient(#ff0000, #ff0000);
     color:aliceblue;
     display: flex;
     justify-content: center;
@@ -36,7 +36,7 @@ width: 25%
 }
 
 .esporte-div-conteudo {
-    width: 35%;
+    width: 90%;
 }
 
 .esporte {
